@@ -50,7 +50,7 @@ http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514402.m3u8
 #EXTINF:-1 ,深圳卫视
 https://dispatch.ulivetv.net/v/live/cgwvto57pvwg.m3u8?stream_id=cgwvto57pvwg&timestamp=1685426803&rand=zlDMH8Ode1&uuid=9b647b3816b2a66a&from=web&sign=f3c4d293ff5814d3ce92748049224f2b
 #EXTINF:-1 ,北京卫视
-https://dispatch.ulivetv.net/v/live/cgwvkn768jwg.m3u8?stream_id=cgwvkn768jwg&timestamp=1685426860&rand=i8hzTaQmvR&uuid=9b647b3816b2a66a&from=web&sign=ca9a7438484136dc01af0ecca6db49e3
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1686053133&sign=c3aa874bc84ef91cc0927ca5a2a67e27
 #EXTINF:-1 ,东方卫视
 https://dispatch.ulivetv.net/v/live/cgwvmejnjcg0.m3u8?stream_id=cgwvmejnjcg0&timestamp=1685426884&rand=VH2w0qRzk3&uuid=9b647b3816b2a66a&from=web&sign=6c3046cd96050fe13b2d2b365a84acf7
 #EXTINF:-1 ,天津卫视
@@ -79,8 +79,6 @@ https://dispatch.ulivetv.net/v/live/cgwvoiircukg.m3u8?stream_id=cgwvoiircukg&tim
 https://dispatch.ulivetv.net/v/live/cgwvt9ytgse8.m3u8?stream_id=cgwvt9ytgse8&timestamp=1685427364&rand=vT63AFKEWT&uuid=9b647b3816b2a66a&from=web&sign=bc077ce8b14278bef4adf1ad4b9e6294
 #EXTINF:-1 ,四川卫视
 https://dispatch.ulivetv.net/v/live/cgwvu1zegukg.m3u8?stream_id=cgwvu1zegukg&timestamp=1685427419&rand=nfDbnvu6jV&uuid=9b647b3816b2a66a&from=web&sign=310d8db5784b7df73d6ed1fd3cf46d07
-#EXTINF:-1 ,江西卫视
-http://113.207.84.196/session/e92870de-fd43-11ed-bb99-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8?token=b804689413dee56510601590fc534156_1685356762_1685356762
 #EXTINF:-1 ,东南卫视
 https://dispatch.ulivetv.net/v/live/cgwvn8vw4zi8.m3u8?stream_id=cgwvn8vw4zi8&timestamp=1685427452&rand=wMz9IIlAK9&uuid=9b647b3816b2a66a&from=web&sign=a2039ca1c96d8da1a60e1b8baae6198c
 #EXTINF:-1 ,吉林卫视
@@ -178,7 +176,7 @@ https://dispatch.ulivetv.net/v/live/clecysls7oow.m3u8?stream_id=clecysls7oow&tim
 #EXTINF:-1 ,长沙影视
 https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
 #EXTINF:-1 ,新唐人电视台
-https://youtu.be/WIhgU_mc05A
+https://live.ntdtv.com/live900/playlist.m3u8
 #EXTINF:-1 ,大爱2台
 https://dispatch.ulivetv.net/v/live/cl7c83atb64g.m3u8?stream_id=cl7c83atb64g&timestamp=1685431118&rand=0ENuzSseBU&uuid=9b647b3816b2a66a&from=web&sign=194b69723fb8db013f902ae5f06979db
 #EXTINF:-1 ,大爱1台
@@ -311,8 +309,8 @@ https://dispatch.ulivetv.net/v/live/cl7cn6bknxds.m3u8?stream_id=cl7cn6bknxds&tim
 https://dispatch.ulivetv.net/v/live/cl7cnhrqwreo.m3u8?stream_id=cl7cnhrqwreo&timestamp=1685434466&rand=4zORcq7ozB&uuid=9b647b3816b2a66a&from=web&sign=e6f89a3401fcb2ee31d6a1d639958866
 #EXTINF:-1 ,星空HD电影台
 https://dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&timestamp=1685434531&rand=MUSVwFXsnG&uuid=9b647b3816b2a66a&from=web&sign=71285ed92ba2e4139e3b47d8b4fd2a3c
-#EXTINF:-1 ,8TV
-https://dispatch.ulivetv.net/v/live/cg4c5thnvf0g.m3u8?stream_id=cg4c5thnvf0g&timestamp=1685435165&rand=ZeCKynRzs0&uuid=9b647b3816b2a66a&from=web&sign=341c35f1c1466e202a9360e4315461c4
+#EXTINF:-1 ,Astro全佳台
+https://dispatch.ulivetv.net/v/live/cg4cwtbppkg0.m3u8?stream_id=cg4cwtbppkg0&timestamp=1685887759&rand=bjGBqpvufS&uuid=9b647b3816b2a66a&from=web&sign=ca40db64625cae1c80aec65781171eea
 #EXTINF:-1 ,Astro AOD HD
 https://dispatch.ulivetv.net/v/live/cg4kl3517qv4.m3u8?stream_id=cg4kl3517qv4&timestamp=1685435381&rand=5TFmHNerGV&uuid=9b647b3816b2a66a&from=web&sign=f200a430f403b6dc1af101f3083afadc
 #EXTINF:-1 ,Astro欢喜台
@@ -340,7 +338,7 @@ http://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 ,EYE旅游台
 https://dispatch.ulivetv.net/v/live/cl7crdhyxn0g.m3u8?stream_id=cl7crdhyxn0g&timestamp=1685436135&rand=hC4giHiGt1&uuid=9b647b3816b2a66a&from=web&sign=b2dbd927ee6f4ebff53347956d3b07bf
 #EXTINF:-1 ,0テル24ニュース
-https://ntv1.media.ylive.jp/rb9a49e2668764da883078c8a16cab897/ap-northeast-1/5690807595001/playlist.m3u8
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 ,TBS NEWS
 https://tbs1.media.ylive.jp/r01e00f5e8c834dcf8600e342d43f3ac4/ap-northeast-1/5690807595001/playlist_dvr.m3u8
 #EXTINF:-1 ,NHK WORLD
@@ -353,17 +351,19 @@ https://stream3.shopch.jp/HLS/master.m3u8
 https://cgntvlive-944.acs.wecandeo.com/ms/2850/944/index_1.m3u8
 #EXTINF:-1 ,NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
-#EXTINF:-1 ,ANN NEWS
-https://youtu.be/coYw-eVU0Ks
-#EXTINF:-1 ,Earthquake warnin
-https://youtu.be/ZeZ049BUy8Q
-#EXTINF:-1 ,HTB NEWS
-https://youtu.be/xWPD8KDHUH8
-#EXTINF:-1 ,KBC NEWS
-https://youtu.be/bHRaXxyvgU0
 #EXTINF:-1 ,JSTV
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 ,Anime Cubo TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 ,QVC
 http://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 ,NHK综合
+https://nhk3.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 ,TBS
+https://tbs3.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 ,FUJI TV
+https://fujitv3.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 ,NTV
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 ,美国中文电视
+http://cnhls.ntdtv.com:80/cn/live400/playlist.m3u8

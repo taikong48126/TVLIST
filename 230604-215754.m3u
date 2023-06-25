@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1综合频道
-https://dispatch.ulivetv.net/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w&timestamp=1685426074&rand=VRZ4FJkdN0&uuid=9b647b3816b2a66a&from=web&sign=a40f24018e89dfcad925233e7b90e455
+https://dispatch.ulivetv.net/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w&timestamp=1687690512&rand=T6wRpkGgLq&uuid=9b647b3816b2a66a&from=web&sign=5e8d72cf22babb66fdd112dad514a074
 #EXTINF:-1 ,CCTV2财经频道
-https://dispatch.ulivetv.net/v/live/c9vu0827ucao.m3u8?stream_id=c9vu0827ucao&timestamp=1685426013&rand=JvjPOWy1bT&uuid=9b647b3816b2a66a&from=web&sign=e4e3c3a43a9139d558494a3aae3ff72e
+https://dispatch.ulivetv.net/v/live/c9vu0827ucao.m3u8?stream_id=c9vu0827ucao&timestamp=1687690677&rand=FGrgicNWUb&uuid=9b647b3816b2a66a&from=web&sign=597a98d9ed997d0e76ff258f7052be85
 #EXTINF:-1 ,CCTV3综艺频道
-https://dispatch.ulivetv.net/v/live/c9vu0ly50rls.m3u8?stream_id=c9vu0ly50rls&timestamp=1685426276&rand=0KhV1aLPBA&uuid=9b647b3816b2a66a&from=web&sign=000506973da50f0013f148ce899f5146
+https://dispatch.ulivetv.net/v/live/c9vu0ly50rls.m3u8?stream_id=c9vu0ly50rls&timestamp=1687690713&rand=U7CboXPJck&uuid=9b647b3816b2a66a&from=web&sign=46e46e357fdbc6b5d724365a96c57076
 #EXTINF:-1 ,CCTV4国际频道
-https://dispatch.ulivetv.net/v/live/c9vu1clej000.m3u8?stream_id=c9vu1clej000&timestamp=1685426301&rand=3rrc3FTJTy&uuid=9b647b3816b2a66a&from=web&sign=d5e2f82758670ff69c890fbcd3f03fad
+https://dispatch.ulivetv.net/v/live/c9vu1clej000.m3u8?stream_id=c9vu1clej000&timestamp=1687690747&rand=uaiolEslfJ&uuid=9b647b3816b2a66a&from=web&sign=c2749330935373bbd52e0a2f17546b7a
 #EXTINF:-1 ,CCTV5体育频道
 https://dispatch.ulivetv.net/v/live/c9vu1o0ob5j4.m3u8?stream_id=c9vu1o0ob5j4&timestamp=1685426319&rand=7hd06DgPIj&uuid=9b647b3816b2a66a&from=web&sign=7399e4609afb1dfb0d68316b67fea29b
 #EXTINF:-1 ,CCTV6电影频道
